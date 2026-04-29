@@ -72,25 +72,52 @@ It can be used as:
 
 ```txt
 proofpath-os/
+  README.md
+  LICENSE
+  CONTRIBUTING.md
+  ROADMAP.md
+  CHANGELOG.md
+
   docs/
     master-blueprint.md
+    proof-quality-rubric.md
+    operating-rules.md
+    privacy-and-public-sharing.md
+    ai-use-policy.md
+    exam-rubric.md
+    customization-guide.md
+    demo-session-20min.md
+
   templates/
     daily-session-template.md
     weekly-review-template.md
     proof-submission-template.md
     exam-template.md
+    attendance-template.md
+
   tracks/
     hybrid-technical-designer.md
+
   knowledge/
     README.md
     index.md
     sources/
+      articles.md
+      videos.md
+      blogs.md
+      tools.md
     notes/
+      product-thinking.md
     proofs/
+      week-01.md
     exams/
+      phase-01.md
+
   examples/
     example-weekly-review.md
     example-proof.md
+    example-full-day.md
+
   versions/
     super-ram-track.md
 ```
@@ -98,13 +125,25 @@ proofpath-os/
 ## Start here
 
 1. Read `docs/master-blueprint.md`
-2. Choose a track from `tracks/` or `versions/`
-3. Use `templates/daily-session-template.md` every day
-4. Submit proof using `templates/proof-submission-template.md`
-5. Store useful sources and notes in `knowledge/`
-6. Link sources, notes, proofs, and exams inside `knowledge/index.md`
-7. Review weekly using `templates/weekly-review-template.md`
-8. Take exams after each major phase using `templates/exam-template.md`
+2. Read `docs/operating-rules.md`
+3. Read `docs/proof-quality-rubric.md`
+4. Choose a track from `tracks/` or `versions/`
+5. Use `templates/daily-session-template.md` every day
+6. Submit proof using `templates/proof-submission-template.md`
+7. Score proof using `docs/proof-quality-rubric.md`
+8. Store useful sources and notes in `knowledge/`
+9. Link sources, notes, proofs, and exams inside `knowledge/index.md`
+10. Track attendance with `templates/attendance-template.md`
+11. Review weekly using `templates/weekly-review-template.md`
+12. Take exams after each major phase using `templates/exam-template.md` and `docs/exam-rubric.md`
+
+## Demo session
+
+New users should start with:
+
+`docs/demo-session-20min.md`
+
+This gives a 20-minute guided class showing how to learn, apply, prove, store, and link in one short cycle.
 
 ## Knowledge Bank rule
 
@@ -121,6 +160,23 @@ Only store something if it has been used or will be used in:
 Rule:
 
 > No storage without usage.
+
+## Proof quality rule
+
+A proof is valid only if it scores 7/10 or higher using `docs/proof-quality-rubric.md`.
+
+Below 7/10 means revise, not counted.
+
+## Public sharing and AI rules
+
+Before publishing proofs, read:
+
+- `docs/privacy-and-public-sharing.md`
+- `docs/ai-use-policy.md`
+
+Public proof should show thinking, not expose private data.
+
+AI can assist thinking, but important claims should be verified.
 
 ## Expected outcomes
 
