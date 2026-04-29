@@ -10,6 +10,23 @@ It is built around one rule:
 
 No passive learning. No fake progress. No resource dumping.
 
+## Quick Start: 5 minutes
+
+1. Open `templates/daily-session-template.md`
+2. Pick one topic from `tracks/hybrid-technical-designer.md`
+3. Learn for 15 minutes
+4. Apply the idea to a real product, workflow, portfolio, or business problem
+5. Create one proof using `templates/proof-submission-template.md`
+6. Store one useful note or source in `knowledge/`
+7. Link the source, note, and proof in `knowledge/index.md`
+
+Minimum valid session:
+
+- one concept learned
+- one real application
+- one proof created
+- one knowledge entry linked
+
 ## What this is
 
 ProofPath OS is an open-source learning and proof operating system. It is designed for people who want to build real capability through structured practice, visible proof, organized knowledge, feedback, and gated progression.
@@ -73,6 +90,7 @@ proofpath-os/
     exams/
   examples/
     example-weekly-review.md
+    example-proof.md
   versions/
     super-ram-track.md
 ```
@@ -103,6 +121,30 @@ Only store something if it has been used or will be used in:
 Rule:
 
 > No storage without usage.
+
+## Expected outcomes
+
+After 7 days:
+
+- clearer daily learning habit
+- at least 5 proof outputs
+- early knowledge bank entries
+- better connection between learning and work
+
+After 30 days:
+
+- stronger product and systems thinking
+- reusable proof archive
+- visible learning trail
+- clearer role direction
+
+After 90 days:
+
+- portfolio-ready proof of thinking
+- stronger ability to analyze products and systems
+- improved technical collaboration
+- structured knowledge bank for reuse
+- stronger professional positioning
 
 ## Recommended v1 use
 
